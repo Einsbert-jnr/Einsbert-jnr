@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Einsbert-jnr
+- 👋 Hi, I’m @Clement-Heanampong
 - 👀 I’m a Machine Learning, AI and Cybersecurity enthutiats
 - 🌱 I’m currently learning Deep learning in parallel with cybersecurity
 - 💞️ I’m looking to collaborate on Machine Learning, Deep Learning, Artificial Intelligence and how they can be applied in Cybersecurity to secure Networks and Systems
