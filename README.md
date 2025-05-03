@@ -48,6 +48,46 @@ Welcome to my space. Sometimes, I go by 405found. My biggest fear is `the act of
 <a href="https://github.com/chiselstrike/chisel"><img src="https://img.shields.io/badge/-Chisel-EB4034?&style=for-the-badge" /></a>
 
 ---
+## 🎓 Technical Certifications  
+- [**DeepLearning.AI:** Machine Learning Specialization](https://coursera.org/share/83d6d33c1d5a74fd3faf7a23a79f243e)  
+- [**CISCO:** Cyber Threat Management](https://www.credly.com/badges/b35f73b6-61b9-493a-9168-ab5f3f49bb9a/)  
+- [**Google:** Google Professional Cybersecurity](https://coursera.org/share/95de076fe5d008441d6f4c020e133203)  
+- [**TCM-Security:** Practical Web Application Penetration Testing](https://drive.google.com/file/d/1xIjF48K0LaKq2vTJa7OGwNBdOYz1A23w/view)  
+- [**Great Learning:** Machine Learning with Python](https://www.mygreatlearning.com/certificate/WIDPOMBH)  
+- [**Virtual InfoSec Africa:** Ethical Hacking Essentials](https://drive.google.com/file/d/19Q6M9GeucRbtaXCHnmAYWiBJrH-pt1fd/view)  
+- **Cyfrin Updraft:** Blockchain development *(Ongoing)*  
+- [**DeepLearning.AI:** Intro to TensorFlow for AI, ML & Deep Learning](https://coursera.org/share/1b509dbc7913c1c7b942e9f61c139438)  
+
+<!--
+## 🎓 Technical Certifications  
+
+<a href="https://coursera.org/share/83d6d33c1d5a74fd3faf7a23a79f243e">
+    <img src="https://img.shields.io/badge/-DeepLearning.AI:_Machine_Learning_Specialization-FF6F00?&style=for-the-badge">
+</a>&nbsp;
+<a href="https://www.credly.com/badges/b35f73b6-61b9-493a-9168-ab5f3f49bb9a/">
+    <img src="https://img.shields.io/badge/-CISCO_Cyber_Threat_Management-2A5ADA?&style=for-the-badge">
+</a>&nbsp;
+<a href="https://coursera.org/share/95de076fe5d008441d6f4c020e133203">
+    <img src="https://img.shields.io/badge/-Google_Professional_Cybersecurity-4285F4?&style=for-the-badge">
+</a>&nbsp;
+<a href="https://drive.google.com/file/d/1xIjF48K0LaKq2vTJa7OGwNBdOYz1A23w/view">
+    <img src="https://img.shields.io/badge/-TCM_Security:_Practical_Web_App_Pen_Testing-4E342E?&style=for-the-badge">
+</a>&nbsp;
+<a href="https://www.mygreatlearning.com/certificate/WIDPOMBH">
+    <img src="https://img.shields.io/badge/-Great_Learning_Academy:_Machine_Learning_with_Python-150458?&style=for-the-badge">
+</a>&nbsp;
+<a href="https://drive.google.com/file/d/19Q6M9GeucRbtaXCHnmAYWiBJrH-pt1fd/view">
+    <img src="https://img.shields.io/badge/-Virtual_InfoSec_Africa:_Ethical_Hacking_Essentials-EB4034?&style=for-the-badge">
+</a>&nbsp;
+<a href="">
+    <img src="https://img.shields.io/badge/-Cyfrin_Updraft:_Blockchain_Development_(Ongoing)-5E2E9C?&style=for-the-badge">
+</a>&nbsp;
+<a href="https://coursera.org/share/1b509dbc7913c1c7b942e9f61c139438">
+    <img src="https://img.shields.io/badge/-DeepLearning.AI:_Intro_to_TensorFlow_for_AI_ML_Deep_Learning-FF6F00?&style=for-the-badge">
+</a>
+-->
+
+---
 ## 🧠 Let's Connect  
 If you're into:  
 - 💻 Breaking apps  
