@@ -3,7 +3,13 @@
 <a href="https://www.linkedin.com/in/clement-heanampong/"><img src="https://img.shields.io/badge/-LinkedIn-195e83?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href=""><img src="https://img.shields.io/badge/-Portfolio-000000?&style=for-the-badge&logo=vercel&logoColor=white" /></a>
 
-Welcome to my space. Sometimes, I go by 405found. My biggest fear is `the act of not knowing something ever existed.` So I'm just curious and explores diverse fields.
+Welcome to my space. Sometimes, I go by 405found. My biggest fear is `the act of not knowing something ever existed.` So I'm just curious and explores diverse fields. I'm passionate **Penetration tester** and **Security researcher**. I enjoy playing **CTFs** as well. 
+
+--- 
+
+## 👽 Objective
+
+I specialize in offensive security, research 5G/6G wireless systems, and advance security solutions. Passionate about ML/AI and blockchain technology, constantly learning, building, and evolving — because progress never stops.
 
 ---
 
