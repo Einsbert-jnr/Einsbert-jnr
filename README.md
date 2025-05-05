@@ -30,7 +30,8 @@ I specialize in offensive security, research 5G/6G wireless systems, and advance
 <a href="https://github.com/lanmaster53/recon-ng"><img src="https://img.shields.io/badge/-Recon_ng-0D47A1?&style=for-the-badge" /></a>&nbsp;
 <a href="https://www.python.org/"><img src="https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=python&logoColor=white" /></a>&nbsp;
 <a href="https://www.gnu.org/software/bash/"><img src="https://img.shields.io/badge/-Bash-121011?&style=for-the-badge&logo=gnubash" /></a>&nbsp;
-<a href="https://github.com/PowerShell/PowerShell"><img src="https://img.shields.io/badge/-PowerShell-012456?&style=for-the-badge" /></a>
+<a href="https://github.com/PowerShell/PowerShell"><img src="https://img.shields.io/badge/-PowerShell-012456?&style=for-the-badge" /></a>&nbsp;
+<a href="https://www.tracelabs.org/"><img src="https://img.shields.io/badge/-Trace_Labs-FF5733?&style=for-the-badge" /></a>
 
 ### 🤖 Machine Learning  
 <a href="https://scikit-learn.org/"><img src="https://img.shields.io/badge/-Scikit_Learn-F7931E?&style=for-the-badge" /></a>&nbsp;
