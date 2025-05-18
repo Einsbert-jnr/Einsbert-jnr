@@ -3,7 +3,7 @@
 <a href="https://www.linkedin.com/in/clement-heanampong/"><img src="https://img.shields.io/badge/-LinkedIn-195e83?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href=""><img src="https://img.shields.io/badge/-Portfolio-000000?&style=for-the-badge&logo=vercel&logoColor=white" /></a>
 
-Welcome to my space. Sometimes, I go by 405found. My biggest fear is `the act of not knowing something ever existed.` So I'm just curious and explores diverse fields. I'm passionate **Penetration tester** and **Security researcher**. I enjoy playing **CTFs** as well. 
+Welcome to my space. My biggest fear is `the act of not knowing something ever existed.` So I'm just curious and explores diverse fields. I'm a passionate **Pen-tester** and **Security researcher**. I enjoy playing **CTFs** as well. 
 
 --- 
 
@@ -26,7 +26,7 @@ I specialize in offensive security, research 5G/6G wireless systems, and advance
 <a href="https://ghidra-sre.org/"><img src="https://img.shields.io/badge/-Ghidra-FF0000?&style=for-the-badge" /></a>&nbsp;
 <a href="https://github.com/volatilityfoundation/volatility"><img src="https://img.shields.io/badge/-Volatility-2E7D32?&style=for-the-badge" /></a>&nbsp;
 <a href="https://www.openwall.com/john/"><img src="https://img.shields.io/badge/-John_the_Ripper-4E342E?&style=for-the-badge" /></a>&nbsp;
-<a href="https://hashcat.net/hashcat/"><img src="https://img.shields.io/badge/-Hashcat-2D2D2D?&style=for-the-badge" /></a>&nbsp;
+<a href="https://github.com/vanhauser-thc/thc-hydra"><img src="https://img.shields.io/badge/-Hydra-2D2D2D?&style=for-the-badge" /></a>&nbsp;
 <a href="https://github.com/lanmaster53/recon-ng"><img src="https://img.shields.io/badge/-Recon_ng-0D47A1?&style=for-the-badge" /></a>&nbsp;
 <a href="https://www.python.org/"><img src="https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=python&logoColor=white" /></a>&nbsp;
 <a href="https://www.gnu.org/software/bash/"><img src="https://img.shields.io/badge/-Bash-121011?&style=for-the-badge&logo=gnubash" /></a>&nbsp;
